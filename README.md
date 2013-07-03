@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
@@ -177,3 +178,9 @@ Add the subdomain hubot should connect to. If you web URL looks like
 You may want to get comfortable with `heroku logs` and `heroku restart`
 if you're having issues.
 
+=======
+iic-hubot
+=========
+
+Our own version of Hubot
+>>>>>>> 6bcb878b5bedb0fedd584aab19c701e5bd888b43

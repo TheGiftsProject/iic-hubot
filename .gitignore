@@ -1,1 +1,13 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
 /.idea
+pids
+logs
+results
+npm-debug.log
