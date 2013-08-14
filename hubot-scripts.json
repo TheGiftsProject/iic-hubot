@@ -1,1 +1,20 @@
-["coin.coffee", "abstract.coffee", "ambush.coffee", "dice.coffee", "yell.coffee"]
+[
+    "coin.coffee",
+    "abstract.coffee",
+    "dice.coffee",
+    "applause.coffee",
+    "capgun.coffee",
+    "hashing.coffee",
+    "imdb.coffee",
+    "isup.coffee",
+    "meme_generator.coffee",
+    "twss.coffee",
+    "goodbad.coffee",
+    "take-the-blame.coffee",
+    "spark.coffee",
+    "text.coffee",
+    "time.coffee",
+    "tweet.coffee",
+    "twitter.coffee"
+
+]
