@@ -1,1 +1,1 @@
-["coin.coffee"]
+["coin.coffee", "abstract.coffee", "ambush.coffee", "dice.coffee", "yell.coffee"]
