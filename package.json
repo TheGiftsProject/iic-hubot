@@ -23,7 +23,8 @@
     "hubot": "2.5.5",
     "hubot-scripts": "2.4.6",
     "hubot-hipchat": "~2.5.1-4",
-    "underscore": "1.5.1"
+    "underscore": "1.5.1",
+    "textspark": "0.1.0"
   },
   "engines": {
     "node": ">= 0.8.x",
