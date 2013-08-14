@@ -13,8 +13,6 @@
     "take-the-blame.coffee",
     "spark.coffee",
     "text.coffee",
-    "time.coffee",
-    "tweet.coffee",
-    "twitter.coffee"
+    "time.coffee"
 
 ]
