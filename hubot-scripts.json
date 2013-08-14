@@ -7,7 +7,6 @@
     "hashing.coffee",
     "imdb.coffee",
     "isup.coffee",
-    "meme_generator.coffee",
     "twss.coffee",
     "goodbad.coffee",
     "take-the-blame.coffee",
