@@ -1,4 +1,5 @@
 - Integrate with Dev1 hangout.
+- Add redis brain.
 - https://github.com/github/hubot-scripts/blob/master/src/scripts/applause.coffee
 - https://github.com/github/hubot-scripts/blob/master/src/scripts/capgun.coffee
 - https://github.com/github/hubot-scripts/blob/master/src/scripts/git-help.coffee
