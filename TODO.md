@@ -1,11 +1,8 @@
-Scripts we want:
+- Integrate with Dev1 hangout.
+- Scripts we want:
 
-https://github.com/github/hubot-scripts/blob/master/src/scripts/coin.coffee
-https://github.com/github/hubot-scripts/blob/master/src/scripts/abstract.coffee
-https://github.com/github/hubot-scripts/blob/master/src/scripts/ambush.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/applause.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/capgun.coffee
-https://github.com/github/hubot-scripts/blob/master/src/scripts/dice.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/git-help.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/github-pulls.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/hangout.coffee
@@ -14,7 +11,6 @@ https://github.com/github/hubot-scripts/blob/master/src/scripts/hubotagainsthuma
 https://github.com/github/hubot-scripts/blob/master/src/scripts/imdb.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/isup.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/meme_generator.coffee
-https://github.com/github/hubot-scripts/blob/master/src/scripts/yell.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/working-on.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/wordnik.coffee
 https://github.com/github/hubot-scripts/blob/master/src/scripts/whos-turn.coffee
