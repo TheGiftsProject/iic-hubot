@@ -1,11 +1,17 @@
 [
-    "coin.coffee",
-    "abstract.coffee",
-    "dice.coffee",
-    "applause.coffee",
-    "capgun.coffee",
-    "hashing.coffee",
-    "isup.coffee",
-    "spark.coffee",
-    "time.coffee"
+    "coin.coffee", "abstract.coffee", "dice.coffee", "applause.coffee",
+    "spark.coffee", "time.coffee", "hashing.coffee", "isup.coffee",
+
+    "stock.coffee",
+    "working-on.coffee",
+    "wordnik.coffee",
+    "whos-turn.coffee",
+    "pivotal.coffee",
+    "9gag.coffee",
+    "announce.coffee",
+    "aww.coffee",
+    "bang.coffee",
+    "bang-bang.coffee",
+    "botsnack.coffee",
+    "xkcd.coffee"
 ]

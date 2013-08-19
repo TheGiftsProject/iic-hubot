@@ -1,15 +1,4 @@
-- Integrate with Dev1 hangout.
-- Add redis brain.
-- Check out other scripts:
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/git-help.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/github-pulls.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/hangout.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/working-on.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/wordnik.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/whos-turn.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/pivotal.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/pivotalstorylisten.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/scrumnotes.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/speak.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/spotify.coffee
-    - https://github.com/github/hubot-scripts/blob/master/src/scripts/stock.coffee
+- Redis brain.
+- Make sure these work: Roles, aww, announce, stock, working-on, wordnik, whos-turn, pivotal, 9gag, bang, bang-bang, botsnack, xkcd.
+- Github pulls script (https://github.com/github/hubot-scripts/blob/master/src/scripts/github-pulls.coffee)
+- Looks at hubot-scripts from C to W.
