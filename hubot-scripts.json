@@ -1,5 +1,5 @@
 [
-    "coin.coffee", "abstract.coffee", "dice.coffee", "applause.coffee",
+    "coin.coffee", "abstract.coffee", "applause.coffee",
     "spark.coffee", "time.coffee", "hashing.coffee", "isup.coffee",
 
     "stock.coffee",
@@ -13,5 +13,15 @@
     "bang.coffee",
     "bang-bang.coffee",
     "botsnack.coffee",
-    "xkcd.coffee"
+    "xkcd.coffee",
+    "decide.coffee",
+    "github-status.coffee",
+    "karma.coffee",
+    "kittens.coffee",
+    "plus_one.coffee",
+    "remind.coffee",
+    "roll.coffee",
+    "which-do-you-prefer.coffee"
+
+
 ]

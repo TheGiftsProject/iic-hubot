@@ -1,4 +1,31 @@
 - Redis brain.
-- Make sure these work: Roles, aww, announce, stock, working-on, wordnik, whos-turn, pivotal, 9gag, bang, bang-bang, botsnack, xkcd.
-- Github pulls script (https://github.com/github/hubot-scripts/blob/master/src/scripts/github-pulls.coffee)
-- Looks at hubot-scripts from C to W.
+
+- Make sure these work:
+    - Roles
+    - aww
+    - announce
+    - stock
+    - working-on
+    - wordnik
+    - whos-turn
+    - pivotal
+    - 9gag
+    - bang
+    - bang-bang
+    - botsnack
+    - xkcd
+    - decide
+    - github-status
+    - karma
+    - kittens
+    - plus_one
+    - remind
+    - roll
+    - which-do-you-prefer
+
+- Github stuff:
+    - github-pulls
+    - github-activity
+    - Our own scripts?
+
+- LaunchDB/LaunchTime script.
