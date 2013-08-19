@@ -5,13 +5,7 @@
     "applause.coffee",
     "capgun.coffee",
     "hashing.coffee",
-    "imdb.coffee",
     "isup.coffee",
-    "twss.coffee",
-    "goodbad.coffee",
-    "take-the-blame.coffee",
     "spark.coffee",
-    "text.coffee",
     "time.coffee"
-
 ]
