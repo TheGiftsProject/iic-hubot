@@ -1,4 +1,6 @@
 [
+    "redis-brain.coffee",
+
     "coin.coffee", "abstract.coffee", "applause.coffee",
     "spark.coffee", "time.coffee", "hashing.coffee", "isup.coffee",
 
