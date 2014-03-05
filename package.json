@@ -28,7 +28,8 @@
     "soupselect": "*",
     "htmlparser": "*",
     "bang": "*",
-    "shellwords": "*"
+    "shellwords": "*",
+    "xml2js": "*"
   },
   "engines": {
     "node": ">= 0.8.x",
