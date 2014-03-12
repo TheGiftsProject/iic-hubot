@@ -22,7 +22,8 @@
     "plus_one.coffee",
     "remind.coffee",
     "roll.coffee",
-    "which-do-you-prefer.coffee"
+    "which-do-you-prefer.coffee",
+    "deadline.coffee"
 
 
 ]
