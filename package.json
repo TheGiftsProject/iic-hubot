@@ -23,6 +23,7 @@
     "hubot": "2.5.5",
     "hubot-scripts": "2.4.6",
     "hubot-hipchat": "~2.5.1-4",
+    "hubot-cron": ">= 0.1.0",
     "underscore": "1.5.1",
     "textspark": "0.1.0",
     "soupselect": "*",
