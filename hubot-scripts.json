@@ -23,7 +23,8 @@
     "remind.coffee",
     "roll.coffee",
     "which-do-you-prefer.coffee",
-    "deadline.coffee"
+    "deadline.coffee",
+    "stagehand.coffee"
 
 
 ]
