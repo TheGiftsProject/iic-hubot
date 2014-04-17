@@ -1,5 +1,3 @@
-- Redis brain.
-
 - Make sure these work:
     - Roles
     - aww
