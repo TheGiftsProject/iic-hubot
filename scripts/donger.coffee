@@ -12,16 +12,16 @@ module.exports = (robot) ->
   robot.respond /donger( me)? (.*)/i, (msg) ->
     msg.http(dongerlistUrl(msg.match[2])).header('User-Agent', '').get() (err, res, body) ->
       handler = new htmlparser.DefaultHandler (err, dom) ->
-        msg.send randomDonger(dom)
+        msg.send randomDonger(msg, dom)
 
       new htmlparser.Parser(handler).parseComplete(body);
 
-randomDonger = (dom) ->
+randomDonger = (msg, dom) ->
   dongers = select(dom, '.copy-donger')
   if dongers.length == 0
     'NO DONGERS FOR YOU ᕙ(ಠ▃ಠ )'
   else
-    dongers[Math.floor(Math.random() * dongers.length)].attribs['data-clipboard-text']
+    msg.random(dongers).attribs['data-clipboard-text']
 
 dongerlistUrl = (query) ->
   url = "http://dongerlist.com"
